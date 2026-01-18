@@ -1,0 +1,5 @@
+*.stl
+*.step
+/STLs
+desktop.ini
+*.f3d
