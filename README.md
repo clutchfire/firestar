@@ -4,7 +4,7 @@
 ---
 
 # Firestar – HPA Platform 🚀
-**Created by:** [@ClutchFire3D](https://www.instagram.com/clutchfire3d/)
+**Created by:** [@ClutchFire](http://bio.clutchfire.works/)
 
 ![Firestar](Pages/Images/Firestar.jpg)
 
@@ -13,7 +13,7 @@
 ## 1. Meet Firestar
 **Forget Gearboxes. Embrace Innovation.**
 
-The Firestar was developed by **ClutchFire3D** in collaboration with **PolarStar Airsoft**. Designed from the ground up to extract maximum performance from the **F2™ and Jack™ HPA engines**, this platform eliminates the headache of nozzle alignment and gearbox shimming.
+The Firestar was developed by **ClutchFire** in collaboration with **Polarstar Airsoft**. Designed from the ground up to extract maximum performance from the **F2™ and Jack™ HPA engines**, this platform eliminates the headache of nozzle alignment and gearbox shimming.
 
 This repository contains the source files and community information for the project.
 
@@ -22,7 +22,7 @@ This repository contains the source files and community information for the proj
 ## 📚 Full Manual & Downloads
 For the complete assembly manual, recommended print settings, and to download the STL files, please visit our official website:
 
-## [**🌐 View Official Website & Manual**](https://clutchfire.github.io/firestar/)
+## [**🌐 View Official Website & Manual**](http://firestarmanual.clutchfire.works)
 
 ---
 
@@ -34,7 +34,7 @@ Have questions, want to share your build, or suggest an improvement? Join our co
 ## ❤️ Support the Mission (Keep the Fire Burning)
 The Firestar is an open-source project. If you find this project valuable, please consider supporting our work.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Clutchfire-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/clutchfire3d)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Clutchfire-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/clutchfire)
 
 ---
 

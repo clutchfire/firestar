@@ -21,8 +21,7 @@ Do you have an idea for a new handguard, stock adapter, or internal tweak?
 ### 4. Sharing Your Build 📸
 Show the world that the Firestar works! 
 * Post your photos in the `#showcase` channel on Discord.
-* You can still tag [@ClutchFire3D](https://www.instagram.com/clutchfire3d/) on Instagram to help spread the word!
-
+* You can still tag [@clutchfire](https://www.instagram.com/clutchfireworks/) on Instagram to help spread the word!
 ## Rules for Contributions
 * **Non-Commercial Only:** All contributions must follow the CC BY-NC-ND 4.0 license. Improvements are for the community, not for commercial sale.
 * **Respect:** Be helpful and respectful to other members in our Discord and GitHub threads.
